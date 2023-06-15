@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Javier, Data Scientist in iFood Colombia.<br>
+I'm Javier, Data Scientist in Mercadolibre Colombia.<br>
 
 
 ## 🌐 Socials:
